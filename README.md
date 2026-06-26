@@ -1,4 +1,4 @@
-[frames_2026-06-26_20.13.54.pdf](https://github.com/user-attachments/files/29379613/frames_2026-06-26_20.13.54.pdf)[frames_2026-06-26_20.13.54.pdf](https://github.com/user-attachments/files/29379631/frames_2026-06-26_20.13.54.pdf)
+
 
 # Nav2_config
 for fastlio_localization tf
@@ -9,6 +9,8 @@ for fastlio_localization tf
 ->>
 
 [frames_2026-06-26_20.13.54.pdf](https://github.com/user-attachments/files/29379623/frames_2026-06-26_20.13.54.pdf)
+
+<img width="1649" height="845" alt="image" src="https://github.com/user-attachments/assets/f72c7458-1382-4585-8200-9fdf3d13c1d7" />
 
 
 This is a revision of nav2 yaml in ros2 for fastlio-localization. The modification should also be made in nav2 because the odom is omitted in the tf in the fastlio revision.
